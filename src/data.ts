@@ -1288,5 +1288,126 @@ export const PRODUCTS: Product[] = [
     stock: 20,
     badge: 'Health & Wellness'
 
+  },
+  {
+    id: 'Soundcore Liberty 5 Pro by Anker Noise Cancelling Wireless EarbudsAnker Thus™ AI Chip delivers Guinness World Records-certified call quality for crystal-clear calls in noisy environments',
+    name: 'Soundcore Liberty 5 Pro by Anker Noise Cancelling Wireless EarbudsAnker Thus™ AI Chip delivers Guinness World Records-certified call quality for crystal-clear calls in noisy environments',
+    price: 89.99,
+    originalPrice: 159.99,
+    rating: 4.8,
+    reviewsCount: 150,
+    category: 'electronics',
+    image: '/images/earbuds.PNG',
+    description: 'Noise cancelling wireless earbuds with AI chip for crystal-clear calls.',
+    longDescription: 'Wirecutter\'s Top Pick & Guinness World Record: Named the Top Pick in Wirecutter\'s "The Best Noise-Cancelling Headphones (The New York Times). Also Guinness World Records certified for highest speech quality — powered by a 10-sensor matrix (8 mics + 2 bone conduction sensors) and the Thus AI Chip.',
+    features: [
+      'Whisper-Clear Calls: Equipped with 10 sensors and the Thus AI Chip, enjoy crystal-clear calls in 100 dB+ noisy environments or even quiet rooms. Whisper, speak, or shout—your voice is always heard, anywhere you go.',
+      'Instant Pure Silence: 100% more effective noise cancellation than our previous flagship model. Powered by 8 sensors and the Thus AI Chip, the earbuds process 384K+ noise signals per second, blocking subway, office, or street chaos for instant silence.With ANC on, get up to 6.5 hours of playtime, or up to 28 hours with the case. Need a quick boost? A 5-minute charge gives you 4 hours of listening. (Note: In Extreme mode, battery life is 2.5 hours, or 10.5 hours with the case, when multiple features are enabled. Data based on internal testing.)',
+      'Your Signature Sound: HearID 5.0 with personalized EQ and an AI Audio Enhancer deliver sound precisely tuned to your ears. No more compromises with generic, standard audio.',
+      'Lag-Free Voice Control: With 20 built-in commands, you can skip songs, take calls, and adjust the volume—offline processing ensures zero delay.'
+    ],
+    stock: 30,
+    badge: 'Electronics'
+  },
+  {
+    id: 'Pioneer Camp Men\'s 3-in-1 Snow Ski Jacket Puffer Liner Insulated Waterproof Rain Jackets Winter Windbreaker Snowboard Coat',
+    name: 'Pioneer Camp Men\'s 3-in-1 Snow Ski Jacket Puffer Liner Insulated Waterproof Rain Jackets Winter Windbreaker Snowboard Coat',
+    price: 89.99,
+    originalPrice: 159.99,
+    rating: 4.8,
+    reviewsCount: 150,
+    category: 'apparel',
+    image: '/images/jackets.PNG',
+    description: 'Insulated waterproof snow ski jacket for men.',
+    longDescription: '3-in-1 with Puffer Liner: This men’s 3-in-1 ski jacket features a waterproof outer shell and a zip-in puffer liner that can be worn 3 ways: as a standalone shell, the inner puffer jacket alone, or both together for maximum warmth. The inner puffer jacket is secured at the back neck with a snap loop and features a universal zip-in system compatible with all our 3-in-1 jackets.',
+    features: [
+      'Waterproof & Breathable: Crafted with a professional-grade waterproof outer shell and a waterproof membrane, this snow jacket for men delivers superior waterproofness (15,000+mmH₂O) and moisture permeability (8,000g/m²/24h). Interior mesh panels enhance breathability without sacrificing waterproofing. Seamless waterproof taping ensures no leakage, even in heavy snow or rain.',
+      'Windproof & Stain-Repellent: Engineered with a tightly woven fabric structure, men’s winter jacket effectively guards against harsh winds. The surface has a level-5 anti-stain treatment—dust and dirt from hiking or climbing wipe off effortlessly. Designed for rugged terrain, rocky paths, and intense outdoor use.',
+      'Functional Design: Designed for outdoor performance, the snowboard jacket men features a detachable hood with adjustable Velcro that contour to your head for wind protection without blocking your view. The high stand collar is lined with soft cotton for extra comfort, while YKK 2-way zippers allow easy ventilation. Hidden hem drawcords keep out cold wind, and adjustable Velcro cuffs provide a snug fit.'
+    ],
+    stock: 30,
+    badge: 'Apparel'
+  },
+  {
+    id: 'Portable Washing Machine, Folding 20L Mini Washer and Spin-Dryer3 modes with deep cleaning. Compact for apartments, dorms, home, RV, and travel. For small clothes and delicates. Black.',
+    name: 'Portable Washing Machine, Folding 20L Mini Washer and Spin-Dryer3 modes with deep cleaning. Compact for apartments, dorms, home, RV, and travel. For small clothes and delicates. Black.',
+    price: 75.99,
+    originalPrice: 145.99,
+    rating: 4.5,
+    reviewsCount: 80,
+    category: 'home',
+    image: '/images/washing.PNG',
+    description: 'Compact portable washing machine for small loads.',
+    longDescription: '【Hygienic Separate Washing for Delicates】2026 Upgraded Washer: Unleashes powerful spin and next-gen blue light for exceptional clean. Enjoy a private laundry space with this portable washer. It keeps underwear, socks, baby clothes, workout clothing or delicate fabrics separate from daily laundry, ensuring hygienic and gentle cleaning without cross-contamination. Made of TPE and food-grade silicone, it’s safe for your family’s health.',
+    features: [
+      '20L Capacity with Foldable Compact Design: 20L capacity handles multiple small garments at once. Foldable design (12x12x13 inches unfolded / 12x12x6 inches folded) and 3.5 lbs lightweight build make it easy to store under beds or closets. Suitable for dorms, apartments, RVs, travel, camping or hotel stays',
+      '【Energy-Saving & Versatile for All Scenarios】This efficient mini washer reduces water and power consumption while maintaining strong performance, saving resources and money per cycle. 3 cleaning modes (3/5/10 minutes) adapt to different needs, working reliably at home, on road trips, camping or in dorms — your go-to laundry companion anywhere.',
+      '【Compact Washer with Spin Basket】 Perfect for washing small everyday items such as underwear, socks, baby clothes, sports bras, and lightweight garments. After washing, divide the load into multiple spin cycles. The compact spin basket is designed for up to 3 pieces of underwear or 1 sports bra/tank top per cycle to ensure safe and stable operation. It removes excess water but does not completely dry clothes.',
+      '【Worry-Free After-Sale & User-Friendly Details】Equipped with a spin basket for convenient drying. Easy to carry and operate, with intuitive timer buttons. We offer satisfactory customer service for any questions — ensuring a smooth shopping experience.'
+    ],
+    stock: 25,
+    badge: 'Home' 
+  },
+  {
+    id: 'BLACK+DECKER 5-in-1 Microwave Oven Air Fryer Combo, 0.9 Cu.Ft, 900WCountertop Microwave, Convection Bake & Roast, Child Lock, 10 Power Levels, for Small Kitchens & RVs',
+    name: 'BLACK+DECKER 5-in-1 Microwave Oven Air Fryer Combo, 0.9 Cu.Ft, 900WCountertop Microwave, Convection Bake & Roast, Child Lock, 10 Power Levels, for Small Kitchens & RVs',
+    price: 89.99,
+    originalPrice: 149.99,
+    rating: 4.3,
+    reviewsCount: 60,
+    category: 'home',
+    image: '/images/oven.PNG',
+    description: 'Versatile countertop microwave with air frying capabilities.',
+    longDescription: '5-in-1 Microwave Oven: Use this essential countertop appliance for cooking in five functions: microwave, air fryer, combi (grill/convection), bake, and roast for all of your culinary needs',
+    features: [
+      '10 Cooking Levels: Featuring a 900-watt output, this compact microwave has 7 auto menus, including settings for Beverage, Fresh/Frozen Vegetables, Oatmeal, Potato, Popcorn, and Frozen Pizza.',
+      'Air Fry Presets: This small-but-mighty microwave has 11 preset air fry menus, including for cooking frozen French fries, steak fries, squid rings, chicken nuggets/wings/legs, fish sticks/fillets, cheese sticks, vegetables, and spring rolls with an easy-to-use operation.',
+      'Speedy Cooking: Directly press the start button to cook food at 100% power for 30 seconds and press again for an additional 30 seconds.',
+      'Child Lock Feature: Ensures safety when children are around.'
+    ],
+    stock: 30,
+    badge: 'Home'
+  },
+  {
+    id: 'The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil MachineFor Homes, Offices, Hotels and Spas - Aromatherapy Diffuser For Aesthetic Scenting - Black - 4.05 Oz - Fragrance Included',
+    name: 'The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil MachineFor Homes, Offices, Hotels and Spas - Aromatherapy Diffuser For Aesthetic Scenting - Black - 4.05 Oz - Fragrance Included',
+    price: 69.99,
+    originalPrice: 99.99,
+    rating: 4.5,
+    reviewsCount: 120,
+    category: 'home',
+    image: '/images/air.PNG',
+    description: 'Aromatherapy diffuser for aesthetic scenting.',
+    longDescription: 'Truly Waterless Design — Fill the container with fragrance oil (min. recommended for best performance), plug in, and enjoy. No water, no mess.',
+    features: [
+      'Whisper-Quiet Functionality – Operates almost silently for scenting in homes, offices, or any space.',
+      'Refillable Diffuser Oil Bottles Available - Extra bottles available in our store for replacing or switching oils to match any mood or ambiance.',
+      'Night Light Feature – Customizable, energy-efficient LED night light provides a calming glow while dispersing fragrance oils.',
+      'Easy to Use: Simple operation with a single button control.'
+    ],
+    stock: 50,
+    badge: 'Home'
+  },
+  {
+    id: 'Galaxy Projector for Bedroom,29 Soothing Sounds Machine,16 HD Disc Ocean Ceiling Planetarium Star Night Light Projector,Remote Timer Bluetooth Speaker,Gifts for Boys & Girls,Sensory Product for Kids',
+    name: 'Galaxy Projector for Bedroom,29 Soothing Sounds Machine,16 HD Disc Ocean Ceiling Planetarium Star Night Light Projector,Remote Timer Bluetooth Speaker,Gifts for Boys & Girls,Sensory Product for Kids',
+    price: 69.99,
+    originalPrice: 129.99,
+    rating: 4.6,
+    reviewsCount: 90,
+    category: 'home',
+    image: '/images/night.PNG',
+    description: 'Galaxy projector with soothing sounds and HD disc for sensory experience.',
+    longDescription: '【16 IN 1 Galaxy Projector for Bedroom】 - Galaxy projector night light comes with 16 HD display scenarios: Moon, Solar System, Galaxy, Small Magellanic Cloud, Orion Nebula, Helix Nebula, Crab Nebula, Horsehead Nebula, Saturn, Auroral Sky, Rocket Launch, Interstellar Exploration, Blue Moon, Earth, Dinosaur Ruled Earth, Moonlit Dinosaur. Each projection card has an introduction to the galaxy, helping you know more about space and dinosaur. Note: 16 projection cards total, 1 pre-installed in the projector.',
+    features: [
+      'HD 52 MP Lens Planetarium Projector：Featuring an industrial-grade 52-megapixel lens, Space Projector captures every subtle detail of the night sky. The 7.5K Ultra HD disc lens, precision-engineered with high precision up to 0.003 using state-of-the-art photolithography, brings the universe right before your eyes. Specially designed to recreate authentic celestial scenes, bringing you a truly realistic stargazing experience.',
+      '29 Pure Sounds Baby Sound Machine – Superior Consumer Electronics Sleep Aid: White noise sound machine baby has 29 Built-in Soothing Songs: Ocean Wave, Gentle Wave, Stream, Waterfall, Light Rain, Heavy Rain, Thunderstorm, Rain on Leaves, Rain on Window, Breeze, Bird, Cricket, Frog, Summer Night Insects, Night Frogs, Campfire Crackle, Heartbeat, Singing Bowl, Meditation Melody, Piano Lullaby, White Noise, Pink Noise, Brown Noise, Static Noise, TV Snow, Fan, AC, Box Fan, Harp Melody, and Forest Wind., it effectively masks distracting environmental noise.This device is the perfect choice for managing insomnia, improving sleep quality, or creating a calming sanctuary for a nursery.',
+      '【 HIFI Portable Bluetooth Speaker for Party in Light Projector】The Bluetooth HIFI 5.3 of galaxy projector northern lights projector star projector is of great quality. Easy to connect the Bluetooth device "WH-E32".star projector galaxy light projector combines the beauty of a galaxy light projector with the immersive experience of a music-syncing Bluetooth speaker,creating a good way to relax after a busy day. Whether it\'s for kids\' bedroom,a party,or just to create a magical atmosphere at home,star projector will meet your expectations! The combination of white noise,galaxy lights,and star lights is truly amazing!',
+      '【Remote Control & Smart Auto-Off Timer Star Projector】 Take full command of your audio experience with the included remote, allowing you to adjust volume, skip tracks, and customize lighting from across the room. Star Projector night light with smart timer function (1/2/4H) ensures the device powers down automatically, making it perfect for drifting off to music without worrying about energy waste. We provide a 36-month quality guarantee and 24/7 customer support for a worry-free experience. Our Aurora Projector sound machine has undergone rigorous testing and holds FCC, CE, and RoHS certifications, so you can use it with complete confidence.',
+      '【Wide Coverage & 360° ROTATION Ceiling Projector for Bedroom】- Light Projector for Bedroom can project stars and a solar system onto walls, floors, and ceilings up to 16.4ft away (The optimal projection distance is 9.84ft), covering an area of 135-754 sq ft. Space Projector has a 360° rotation and a rotating button for the film disc to create an immersive feeling. It\'s USB powered for bedrooms, parties, weddings, and Christmas, making it an ideal gift for experiencing galaxies and nebulae at home. NOTE: THE TOP KNOB CAN ADJUST THE FOCAL LENGTH FOR CLEAR IMAGING.',
+      '【GIFTS FOR TEEN GIRLS & BOYS】Can\'t figure out what to buy for teen girl gifts trendy stuff or teen boy gifts?Just think of the kids night light projector,room lights for bedroom will be ur notable gifts.Whether U are a kids who loves northern lights projector,or an men who wants a ambient lighting,who doesn\'t want to have this dreamy birthday gifts for women?LED lights for bedroom/kids projector lights for bedroom/teen girl gifts trendy stuff is a great choice gifts for her/kids. Beautiful bedroom decor, cool stuff for your room sparkles with room light,is ideal personalized gifts for 1,,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 year old girls & boys.'
+    ],
+    stock: 40,
+    badge: 'Home'
   }
 ];
