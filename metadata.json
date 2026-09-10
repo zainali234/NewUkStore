@@ -1,0 +1,6 @@
+{
+  "name": "MzAmazonSeller Store",
+  "description": "Premium e-commerce storefront for MzAmazonSeller featuring high-quality home, kitchen, beauty, and lifestyle products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
