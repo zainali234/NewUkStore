@@ -1481,7 +1481,7 @@ export const PRODUCTS: Product[] = [
     rating: 4.6,
     reviewsCount: 80,
     category: 'outdoor',
-    image: '/images/scooter.PNG',
+    image: '/images/scooter.jpg',
     description: 'Kick scooter with extra-long deck and pneumatic wheels for kids.',
     longDescription: 'Super-strong, aluminum frame with patent-pending, anti-rattle handlebars and folding system ensure a smoother, quieter ride',
     features: [
