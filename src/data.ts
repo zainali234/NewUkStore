@@ -1409,5 +1409,89 @@ export const PRODUCTS: Product[] = [
     ],
     stock: 40,
     badge: 'Home'
+  },
+  {
+    id: 'Bagotte Robot Vacuum and Mop Combo, 6000Pa Robotic Vacuums with Mapping,LiDAR Navigation, Auto-Recharging, 2.4G WiFi/App/Alexa/Remote Control for Pet Hair,Hard Floor,Carpet',
+    name: 'Bagotte Robot Vacuum and Mop Combo, 6000Pa Robotic Vacuums with Mapping,LiDAR Navigation, Auto-Recharging, 2.4G WiFi/App/Alexa/Remote Control for Pet Hair,Hard Floor,Carpet',
+    price: 99.99,
+    originalPrice: 250.99,
+    rating: 4.5,
+    reviewsCount: 120,
+    category: 'home',
+    image: '/images/robot.PNG',
+    description: 'Bagotte Robot Vacuum and Mop Combo with powerful suction and smart navigation.',
+    longDescription: '⚡𝟲𝟬𝟬𝟬𝗣𝗮 𝗨𝗟𝗧𝗥𝗔-𝗦𝗧𝗥𝗢𝗡𝗚 𝗦𝗨𝗖𝗧𝗜𝗢𝗡 𝗣𝗢𝗪𝗘𝗥： Equipped with 6000Pa high-power strong suction, this robot vacuum delivers one-pass thorough cleaning for all floor conditions. It effortlessly sucks up daily dust, food crumbs, floating pet hair, and deeply embedded stubborn dirt on hard floors and carpets, leaving your home spotless with no residue left behind.',
+    features: [
+      '🗺️𝟯𝟲𝟬° 𝗟𝗶𝗗𝗔𝗥 𝗣𝗥𝗘𝗖𝗜𝗦𝗜𝗢𝗡 𝗡𝗔𝗩𝗜𝗚𝗔𝗧𝗜𝗢𝗡： Adopting upgraded 360° LiDAR laser navigation technology, the M6 robot vacuum can instantly scan and map complex household layouts, generate high-precision home maps, and intelligently plan the most efficient cleaning routes. Compared with traditional random-cleaning vacuum robots, it improves overall cleaning efficiency by 70%, covering every corner without repeated cleaning or missing areas.',
+      '🧹𝟯-𝗜𝗡-𝟭 𝗦𝗪𝗘𝗘𝗣, 𝗩𝗔𝗖𝗨𝗨𝗠 & 𝗠𝗢𝗣 𝗖𝗟𝗘𝗔𝗡𝗜𝗡𝗚： Integrates sweeping, high-efficiency vacuuming and mopping three core functions in one machine. It realizes full-house deep cleaning for hard floors, carpets and other home surfaces, solves various daily cleaning troubles in one step, and completely frees your hands from tedious housework.',
+      '🚫𝗩𝗜𝗥𝗧𝗨𝗔𝗟 𝗡𝗢-𝗚𝗢 𝗭𝗢𝗡𝗘𝗦 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦： You can freely mark restricted cleaning zones via the dedicated APP. The robot vacuum will automatically identify and bypass the set areas, effectively avoiding collisions with fragile decorations, pet food bowls, stacked sundries and other obstacles, protecting your home items while ensuring orderly cleaning.',
+      '🎁𝗜𝗗𝗘𝗔𝗟 𝗚𝗜𝗙𝗧 𝗖𝗛𝗢𝗜𝗖𝗘 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗢𝗖𝗖𝗔𝗦𝗜𝗢𝗡𝗦： It is an ideal practical gift for family, friends and colleagues for festivals, birthdays and housewarmings. It greatly saves housework time and reduces daily cleaning pressure, allowing your loved ones to enjoy more relaxed and comfortable leisure time.',
+   
+    ],
+    stock: 50,
+    badge: 'Home'
+  },
+  {
+    id: 'WINGBO 54 Inch DC Ceiling Fan with Lights and Remote Control, 5 Reversible Carved Wood Blades, 6-Speed Noiseless DC Motor, Modern Ceiling Fan in Brushed Nickel Finish with Gray Blades, ETL Listed',
+    name: 'WINGBO 54 Inch DC Ceiling Fan with Lights and Remote Control, 5 Reversible Carved Wood Blades, 6-Speed Noiseless DC Motor, Modern Ceiling Fan in Brushed Nickel Finish with Gray Blades, ETL Listed',
+    price: 99.99,
+    originalPrice: 179.99,
+    rating: 4.6,
+    reviewsCount: 80,
+    category: 'home',
+    image: '/images/fan.PNG',
+    description: 'Modern ceiling fan with lights, remote control, and reversible blades.',
+    longDescription: 'MINIMALIST STYLE: This 54-inch indoor ceiling fan has 5 powerful blades to make your home more comfortable; It offers a sleek, minimalistic design that blends into any modern environment. With shapely, carved wood blades, this large ceiling fan offers an ideal blend of style and function.',
+    features: [
+      'SOLID WOOD BLADES: This Sleek Ceiling Fan has a blade sweep diameter of 54” with 12° Blade Pitch. Crafted from solid wood that helps ensure highly efficient and smooth air delivery. The wood blades are resistant to warping from environmental conditions and offer a long product lifespan.',
+      '6 SPEEDS DUAL-DIRECTION FAN: The powerful ceiling fan operates on 6 forward and reverse speeds (easy to adjust with the included handheld remote). Its reversible motor allows it to turn your room into an oasis in summer as well as warming you up during winter.',
+      'LED LIGHT KIT & DC MOTOR: An integrated LED light source is included (24W, 3000K/4500K/6000K). You can use the fan with or without the light. The fan features an energy-efficient DC motor for cost efficiency savings and has convenient wall holder for remote storage. Utilising the latest advances in DC motor technology to provide amazing performance coupled with exceptional energy efficiency.',
+      'MADE FOR ANY SPACE: The 54-inch blade span makes this ceiling fan perfect for spaces like living rooms, bedrooms or larger rooms (suitable for damp places). 2 down rods (4.5” and 12” long) are included to match different ceiling heights.'
+    ],
+    stock: 40,
+    badge: 'Home'
+  },
+  {
+    id: 'Tablet｜14 inch Android 16 Tablet｜30GB RAM 256GB ROM ｜1920 * 1200 IPS FHD｜10000mAh 30W Fast Charging｜Octa-core Processor｜Wi-Fi 6, BT 5.4｜Dual Camera with Gemini AI｜Keyboard｜Stylus｜Case｜Headphone',
+    name: 'Tablet｜14 inch Android 16 Tablet｜30GB RAM 256GB ROM ｜1920 * 1200 IPS FHD｜10000mAh 30W Fast Charging｜Octa-core Processor｜Wi-Fi 6, BT 5.4｜Dual Camera with Gemini AI｜Keyboard｜Stylus｜Case｜Headphone',
+    price: 119.99,
+    originalPrice: 259.99,
+    rating: 4.7,
+    reviewsCount: 100,
+    category: 'electronics',
+    image: '/images/tablet.PNG',
+    description: '14-inch Android tablet with high RAM and storage, fast charging, and dual cameras.',
+    longDescription: '【Dual-Function 2-in-1 Tablet】URAO Android 16 Tablet is a game-changer with 2-in-1 professional work mode. The tablet is compatible with a Bluetooth keyboard, mouse, stylus, headset, and a convenient foldable case. The setup and connection process is straight forward, enabling you to effortlessly transform your tablet into either a laptop or a computer mode. Friendly Tips: Mouse does not come with batteries.',
+    features: [
+      '【High Performance】URAO Android tablet features the latest operating system Android 16 and an 2.0 GHz octa-core processor ensure of excellent performance, seamless multitasking, getting rid of annoying ads, emphasizing privacy and security by designing enhanced app permissions, providing you complete management control.',
+      '【 30GB + 256GB】Our Android tablet comes with 30GB (6+24GB) RAM 256GB ROM and maximun 1TB TF card ( not included )expandable ensures you of a fast APP launch and smooth gaming experience. URAO tablet also come with pre-installed Google Play Store, you can easily download any needed Apps such as Facebook, Twitter, Youtube, etc.',
+      '【10000mAh Battery with 30W Fast Charge】The built-in large capacity and low consumption CPU enable our URAO 14 inch tablet to stand by for up to 3 days and allows you to enjoy up to 12 hours of mixed reading, watching TV shows, playing games, surfing the web. URAO tablet dopts fast-charging technology which can be fully charged in 2.5 hour and easily charge via the USB Type-C port and rest assured the battery will last. It is a good companion for you to play and study!',
+      '【1920*1200 IPS Display】URAO 14 inch Large Screen Tablet equipped with a high resolution 1920*1200 IPS display, which shows a brightly colored wide-screen for a more realistic viewing experience with sharper and brighter images.The front 5MP and rear 8MP cameras can easily satisfy video calls, online learning, etc. The tablet LCD designed with low blue light technology, the screen flicker and irritating blue light will be reduced.',
+      '【Wi-Fi 6+Bluetooth5.4】Adopts the lastest 6th generation WiFi technology & upgraded BT5.4. Dual band integrated chips make the 5g WiFi more stable,lastest BT 5.4 connection supports all your favorite accessories, highly increased the speed of data transfer.',
+      '【Gravity Acceleration Sensor+Stereo 4 Speaker】Immersive user experience, giving you a more authentic feeling!.'
+    ],
+    stock: 30,
+    badge: 'Electronics'
+  },
+  {
+    id: 'Razor A5 Air Kick Scooter for Kids Ages 8+ - Extra-Long Deck, 8" Pneumatic Rubber Wheels, Foldable, Anti-Rattle Handlebars, for Riders up to 220 lbs',
+    name: 'Razor A5 Air Kick Scooter for Kids Ages 8+ - Extra-Long Deck, 8" Pneumatic Rubber Wheels, Foldable, Anti-Rattle Handlebars, for Riders up to 220 lbs',
+    price: 89.99,
+    originalPrice: 159.99,
+    rating: 4.6,
+    reviewsCount: 80,
+    category: 'outdoor',
+    image: '/images/scooter.PNG',
+    description: 'Kick scooter with extra-long deck and pneumatic wheels for kids.',
+    longDescription: 'Super-strong, aluminum frame with patent-pending, anti-rattle handlebars and folding system ensure a smoother, quieter ride',
+    features: [
+      'Includes easy-adjust handlebars with soft, rubber grips for enhanced comfort, grasp, and control',
+      'Extra-long, 13.4” (340 mm) deck offers more foot room, ideal for taller riders',
+      'Foldable Design: Allows for easy storage and portability, making it convenient to take on trips or store at home.',
+      'Anti-Rattle Handlebars: Ensure a secure grip and reduce vibrations during rides, enhancing safety and control.',
+      'Weight Capacity: Supports riders up to 220 lbs, making it suitable for older kids and even some adults.'
+    ],
+    stock: 15,
+    badge: 'Outdoor'
   }
 ];
