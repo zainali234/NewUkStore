@@ -1497,7 +1497,7 @@ export const PRODUCTS: Product[] = [
   {
     id: 'dynabook Portégé X40-M 14” Business Laptop, Intel Core Ultra 5 225U, 16GB DDR5 RAM, 512GB SSD, WUXGA 1920x1200, Windows 11 Pro, Lightweight 3.17 lb, Wi-Fi 7, Thunderbolt 4',
     name: 'dynabook Portégé X40-M 14” Business Laptop, Intel Core Ultra 5 225U, 16GB DDR5 RAM, 512GB SSD, WUXGA 1920x1200, Windows 11 Pro, Lightweight 3.17 lb, Wi-Fi 7, Thunderbolt 4',
-    price: 130.99,
+    price: 119.99,
     originalPrice: 399.99,
     rating: 4.8,
     reviewsCount: 200,
