@@ -403,11 +403,11 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
               <div className="flex items-center justify-between pb-2 border-b border-slate-100">
                 <div>
                   <span className="text-xs font-bold text-slate-400 block">Sort Code</span>
-                  <span className="font-mono font-bold text-slate-900 text-base tracking-wider">04-00-01</span>
+                  <span className="font-mono font-bold text-slate-900 text-base tracking-wider">04-09-72</span>
                 </div>
                 <button
                   type="button"
-                  onClick={() => handleCopyText('04-00-01', 'sortCode')}
+                  onClick={() => handleCopyText('04-09-72', 'sortCode')}
                   className="p-2 text-rose-600 hover:bg-rose-50 rounded-lg transition-colors flex items-center gap-1.5 cursor-pointer"
                   title="Copy sort code"
                 >
