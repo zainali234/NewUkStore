@@ -1493,5 +1493,47 @@ export const PRODUCTS: Product[] = [
     ],
     stock: 15,
     badge: 'Outdoor'
-  }
+  },
+  {
+    id: 'dynabook Portégé X40-M 14” Business Laptop, Intel Core Ultra 5 225U, 16GB DDR5 RAM, 512GB SSD, WUXGA 1920x1200, Windows 11 Pro, Lightweight 3.17 lb, Wi-Fi 7, Thunderbolt 4',
+    name: 'dynabook Portégé X40-M 14” Business Laptop, Intel Core Ultra 5 225U, 16GB DDR5 RAM, 512GB SSD, WUXGA 1920x1200, Windows 11 Pro, Lightweight 3.17 lb, Wi-Fi 7, Thunderbolt 4',
+    price: 130.99,
+    originalPrice: 399.99,
+    rating: 4.8,
+    reviewsCount: 200,
+    category: 'electronics',
+    image: '/images/laptop.jpg',
+    description: '14-inch business laptop with Intel Core Ultra 5, 16GB RAM, and 512GB SSD.',
+    longDescription: 'NEXT-GEN AI PERFORMANCE – INTEL CORE ULTRA POWER: Powered by the latest Intel Core Ultra 5 225U processor, this business-class laptop delivers advanced AI acceleration, faster multitasking, and smooth productivity performance. Ideal for professionals, executives, remote workers, and power users who need responsive computing for business applications, data processing, and multitasking workflows.',
+    features: [
+      '14” WUXGA DISPLAY – MORE SCREEN, MORE PRODUCTIVITY: Experience a 14-inch WUXGA (1920x1200) 16:10 display, providing more vertical workspace than standard Full HD. Perfect for spreadsheets, coding, browsing, and multitasking. Anti-glare technology ensures comfortable viewing in office or travel environments.',
+      'FAST DDR5 MEMORY + PCIe SSD STORAGE: Equipped with 16GB high-speed DDR5 RAM and a 512GB PCIe NVMe SSD, delivering lightning-fast boot times, seamless multitasking, and quick file access. Expandable architecture supports higher memory configurations for future scalability.',
+      'PREMIUM BUSINESS DESIGN – LIGHTWEIGHT & DURABLE: Built with a sleek aluminum alloy chassis, MIL-STD tested durability, and weighing only ~3.17 lbs, this laptop is designed for professionals on the move. Ultra-portable yet strong enough for everyday business travel. Backed by Dynabook 3-Year Standard Limited Warranty, ensuring long-term reliability and peace of mind.',
+      'ENTERPRISE-GRADE SECURITY + WINDOWS 11 PRO: Includes TPM 2.0, enterprise security features, encryption support, and Windows 11 Pro, making it ideal for corporate environments, IT-managed systems, and secure remote work. Efficient Intel architecture delivers long battery life (approx. 6–8 hours) with fast charging support, keeping you productive on the go.'
+    ],
+    stock: 10,
+    badge: 'Electronics'
+  },
+  {
+    id: 'Samsung 32-Inch Class QLED Q8F 4K UHD Smart TV (2025 Model) Q4 AI Processor, 100% Color Volume with Quantum Dot, AirSlim Design, Endless Free Content, Samsung Vision AI, Alexa Built-in',
+    name: 'Samsung 32-Inch Class QLED Q8F 4K UHD Smart TV (2025 Model) Q4 AI Processor, 100% Color Volume with Quantum Dot, AirSlim Design, Endless Free Content, Samsung Vision AI, Alexa Built-in',
+    price: 99.99,
+    originalPrice: 299.99,
+    rating: 4.7,
+    reviewsCount: 150,
+    category: 'electronics',
+    image: '/images/led.jpg',
+    description: '32-inch QLED 4K UHD Smart TV with Q4 AI Processor and Alexa built-in.',
+    longDescription: 'POWERS DRAMATICALLY CLEAR COLOR AND SOUND: Enjoy your movies and shows in stunning 4K, regardless of the source resolution. Plus, get the most out of what you\'re watching with AI-optimized color-boosted picture and audio quality, enhanced according to the type of content',
+    features: [
+      'OVER A BILLION COLORS THAT STAY TRUE, EVEN IN THE BRIGHTEST SCENES**: Appreciate every beautiful shade of color with incredible precision. The nano-sized Quantum Dots can display the entire color spectrum, **so you can admire billions of shades at any brightness level.',
+      'SLEEK AND SLIM DESIGN FOR A LOW-PROFILE: This TV blends right into your wall with a slim design and brings clutter-free minimalism to any room.',
+      'A WORLD OF CONTENT AT YOUR FINGERTIPS. NO SUBSCRIPTION REQUIRED: Watch 2,700+ free channels including 400+ Samsung TV Plus premium channels and on free streaming apps. Enjoy national and local news, sports, movies and more. Explore new content being added regularly.',
+      'BRINGS SMOOTH MOTION TO SPORTS AND TEAR-FREE GAMING: Experience smooth visuals and elite speeds for VRR gaming at up to 4K 144Hz.',
+      'Alexa Built-in: Control your TV and smart home devices with voice commands using Alexa.'
+    ],
+    stock: 25,
+    badge: 'Electronics'
+  },
+  
 ];
