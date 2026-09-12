@@ -265,7 +265,7 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
             <Building2 className="w-6 h-6 text-amber-600 shrink-0" />
             <div className="text-xs text-slate-700 leading-relaxed">
               <span className="font-bold text-slate-900 block">Direct UK Bank Transfer (Faster Payments / BACS)</span>
-              Clicking <span className="font-bold text-amber-700">Pay & Complete Secure Order</span> will display our UK bank details (Account: <span className="font-bold text-slate-900">Zain Ali Ahmad</span>, Sort Code: <span className="font-bold text-slate-900">04-00-01</span>) and upload input for transfer receipt screenshot.
+              Clicking <span className="font-bold text-amber-700">Pay & Complete Secure Order</span> will display our UK bank details (Account: <span className="font-bold text-slate-900">Faran Ahmed</span>, Sort Code: <span className="font-bold text-slate-900">040972</span>) and upload input for transfer receipt screenshot.
             </div>
           </div>
         </div>
@@ -381,11 +381,11 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
               <div className="flex items-center justify-between pb-2 border-b border-slate-100">
                 <div>
                   <span className="text-xs font-bold text-slate-400 block">Name of the Account</span>
-                  <span className="font-extrabold text-slate-900 text-base">Zain Ali Ahmad</span>
+                  <span className="font-extrabold text-slate-900 text-base">Faran Ahmed</span>
                 </div>
                 <button
                   type="button"
-                  onClick={() => handleCopyText('Zain Ali Ahmad', 'accountHolder')}
+                  onClick={() => handleCopyText('Faran Ahmed', 'accountHolder')}
                   className="p-2 text-rose-600 hover:bg-rose-50 rounded-lg transition-colors flex items-center gap-1.5 cursor-pointer"
                   title="Copy account holder name"
                 >
@@ -425,12 +425,12 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
               <div className="flex items-center justify-between pb-2 border-b border-slate-100">
                 <div>
                   <span className="text-xs font-bold text-slate-400 block">Account Number</span>
-                  <span className="font-mono font-bold text-slate-900 text-base tracking-wide">00416322</span>
+                  <span className="font-mono font-bold text-slate-900 text-base tracking-wide">01022110</span>
                   <span className="text-[11px] font-bold text-emerald-600 block mt-0.5">Faster Payments & BACS supported</span>
                 </div>
                 <button
                   type="button"
-                  onClick={() => handleCopyText('00416322', 'accountNumber')}
+                  onClick={() => handleCopyText('01022110', 'accountNumber')}
                   className="p-2 text-rose-600 hover:bg-rose-50 rounded-lg transition-colors flex items-center gap-1.5 cursor-pointer"
                   title="Copy account number"
                 >
@@ -448,11 +448,11 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
               <div className="flex items-center justify-between pb-2 border-b border-slate-100">
                 <div>
                   <span className="text-xs font-bold text-slate-400 block">Bank Name</span>
-                  <span className="font-bold text-slate-900 text-sm">IFAST GLOBAL BANK LIMITED</span>
+                  <span className="font-bold text-slate-900 text-sm">Clear Bank</span>
                 </div>
                 <button
                   type="button"
-                  onClick={() => handleCopyText('IFAST GLOBAL BANK LIMITED', 'bankName')}
+                  onClick={() => handleCopyText('Clear Bank', 'bankName')}
                   className="p-2 text-rose-600 hover:bg-rose-50 rounded-lg transition-colors flex items-center gap-1.5 cursor-pointer"
                   title="Copy bank name"
                 >
@@ -471,12 +471,12 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
                 <div>
                   <span className="text-xs font-bold text-slate-400 block">Bank Address</span>
                   <span className="font-semibold text-slate-900 text-xs leading-relaxed block max-w-xs">
-                    iFAST Global Bank Limited, SQB, 77 Marsh Wall, London E14 9SH
+                    133 Houndsditch, London EC3A 7BX, United Kingdom
                   </span>
                 </div>
                 <button
                   type="button"
-                  onClick={() => handleCopyText('iFAST Global Bank Limited, SQB, 77 Marsh Wall, London E14 9SH', 'bankAddress')}
+                  onClick={() => handleCopyText('133 Houndsditch, London EC3A 7BX, United Kingdom', 'bankAddress')}
                   className="p-2 text-rose-600 hover:bg-rose-50 rounded-lg transition-colors flex items-center gap-1.5 cursor-pointer"
                   title="Copy bank address"
                 >
