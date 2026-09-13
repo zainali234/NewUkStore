@@ -1535,5 +1535,45 @@ export const PRODUCTS: Product[] = [
     stock: 25,
     badge: 'Electronics'
   },
-  
+  {
+    id: 'Paint Sprayer for House Painting, 1000W Electric Spray Paint Gunwith 1400ML Container,6 Nozzles,3 Patterns,LED Light,Easy to Clean,for Furniture,Cabinets,Fence,Walls,Door,DIY Projects',
+    name: 'Paint Sprayer for House Painting, 1000W Electric Spray Paint Gunwith 1400ML Container,6 Nozzles,3 Patterns,LED Light,Easy to Clean,for Furniture,Cabinets,Fence,Walls,Door,DIY Projects',
+    price: 59.99,
+    originalPrice: 99.99,
+    rating: 4.5,
+    reviewsCount: 90,
+    category: 'home',
+    image: '/images/paint.jpg',
+    description: 'Electric paint sprayer for house painting and DIY projects.',
+    longDescription: '【1000W Ultra-Powerful Performance】CUIOFREE Paint Sprayer is built with a powerful 1000W copper motor, delivering a high spray output of up to 1200ml/min. Spray 200-480 sq.ft in just 15 minutes, much faster than traditional rollers or brushes. Making it perfect for walls, fences, furniture, chair and large home renovation projects',
+    features: [
+      '【6 Nozzles & 3 Spray Patterns】Our paint sprayer for house painting includes 6 nozzle sizes (0.8mm, 1.2mm, 1.8mm, 2.0mm, 2.5mm, 1.8mm) to meet your DIY project needs on a variety of surfaces, ideal for house painting, furniture, fences, cabinets, walls, doors, chairs, and more.This spray paint gun supports 3 adjustable spray patterns—horizontal, vertical, and circular, making it suitable for a wide range of applications',
+      '【6 Nozzles & 3 Spray Patterns】Includes 6 interchangeable nozzles and 3 adjustable spray patterns (horizontal, vertical, and circular) to accommodate different painting needs and achieve precise coverage.',
+      '【Upgraded 1400ML Container】The electric paint sprayer with a large 1400ml (47 fl.oz) container reduces the need for refills, making your workflow more efficient. Ideal for large DIY projects, uninterrupted spraying saves time and ensures a more even coating',
+      '【Adjustable Flow Control】This hvlp paint sprayer is equipped with a flow control knob that allows you to fine-tune the paint output to suit the needs of different projects. Adjusting the flow on your paint sprayer helps reduce overspray and paint waste, giving you a smooth, consistent finish every time.',
+      '【Easy to Use & Clean】This spray paint gun features tool-free assembly, with fully detachable parts for deep cleaning. Even if you are a beginner, you can easily get started after reading the manual. It is very important to clean the handheld paint sprayer thoroughly after use; it comes with a cleaning brush and a nozzle needle to remove residue, enabling thorough cleaning after every project.'
+    ],
+    stock: 35,
+    badge: 'Home'
+  },
+  {
+    id:'Steam Cleaner, 3-Level Adjustable Handle 1500W Steamer for Cleaning15s Heat-Up, Rolling System, Portable Steamer for Cleaning with Mop & 17-Piece Kit for Home, Car, Grout, Tile, Couch, Kitchen',
+    name:'Steam Cleaner, 3-Level Adjustable Handle 1500W Steamer for Cleaning15s Heat-Up, Rolling System, Portable Steamer for Cleaning with Mop & 17-Piece Kit for Home, Car, Grout, Tile, Couch, Kitchen',
+    price: 89.99,
+    originalPrice: 149.99,
+    rating: 4.6,
+    reviewsCount: 110,
+    category: 'home',
+    image: '/images/steam.jpg',
+    description: '1500W steam cleaner with adjustable handle and 17-piece kit for versatile cleaning.',
+    longDescription: 'Powerful Steam Cleaning: Harness 1500W of steam power to generate 3Bar high-pressure steam at 221°F in just 15 seconds—no chemicals needed. This superheated steam penetrates and dissolves stubborn grease, grime, and dirt across multiple surfaces. Safe for homes with kids and pets, it offers an eco-friendly clean that’s both deep and gentle.',
+    features: [
+      'Large Tank & Long Runtime: Designed for extended cleaning sessions, the 1.69-quart (1600ML) tank provides up to 45 minutes of continuous steam. The top-flip filling minimizes spills, and the bottom drain ensures easy water disposal. Spend less time refilling and more time cleaning entire rooms, floors, or vehicles without interruption.',
+      'Smart Steam Control: Gain full cleaning control with three adjustable steam levels, accessible via the upgraded remote-control handle. LED indicator lights and a clear display help you match steam intensity to the task—whether delicate fabrics or tough kitchen stains. Powered by 2 AAA batteries, the handle ensures effortless operation and customized performance.',  
+    'Complete 17-Piece Kit: Tackle any cleaning challenge with a professional 17-piece accessory set, including brass and nylon brushes, extension tubes, microfiber mop pads, and a floor brush. The 78-inch steam hose and power cord offer 50% more reach than standard models, letting you clean ceilings, under furniture, car interiors, and grout with ease.',
+    'Portable & Safe Design:Engineered for convenience, this steamer features a compact body, smooth-rolling wheels, and an ergonomic handle for easy transport and storage. Built-in safety includes child lock protection and auto-shutoff when water is low or pressure is high. Ideal for sealed wood, tile, appliances, upholstery, and autos—all without.'
+    ],
+    stock: 20,
+    badge: 'Home'
+  }
 ];
