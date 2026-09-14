@@ -154,18 +154,18 @@ export default function Returns({ onBackToCatalog }: ReturnsProps) {
                 <form onSubmit={submitReturnRequest} className="space-y-5">
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <div className="space-y-1.5">
-                      <label htmlFor="return-order-id" className="text-xs font-bold text-slate-700 tracking-tight block">Amazon 17-Digit Order ID</label>
+                      <label htmlFor="return-order-id" className="text-xs font-bold text-slate-700 tracking-tight block">MZ 10-Digit Order ID</label>
                       <input
                         type="text"
                         id="return-order-id"
                         required
-                        placeholder="114-xxxxxxx-xxxxxxx"
-                        pattern="^[0-9]{3}-[0-9]{7}-[0-9]{7}$"
+                        placeholder="114-xxxx-xxxX"
+                        pattern="^[0-9]{3}-[0-9]{4}-[0-9]{4}$"
                         className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs sm:text-sm text-slate-800 focus:outline-hidden focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all font-mono"
                         value={formData.orderId}
                         onChange={(e) => setFormData(prev => ({ ...prev, orderId: e.target.value }))}
                       />
-                      <span className="text-[10px] text-slate-400 font-medium block">Format: 3 numbers, dash, 7 numbers, dash, 7 numbers</span>
+                      <span className="text-[10px] text-slate-400 font-medium block">Format: 2 numbers, dash, 4 numbers, dash, 4 numbers</span>
                     </div>
 
                     <div className="space-y-1.5">
