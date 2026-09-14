@@ -1575,5 +1575,66 @@ export const PRODUCTS: Product[] = [
     ],
     stock: 20,
     badge: 'Home'
+  },
+  {
+    id: '2 in 1 Hair Steamer for Natural Hair & Ozone Facial Steamer 2-in-1 hair and facial steamer for deep conditioning natural hair and daily skincare,for Personal Care Use at Home or Salon',
+    name: '2-in-1 Hair Steamer for Natural Hair & Ozone Facial Steamer 2-in-1 hair and facial steamer for deep conditioning natural hair and daily skincare,for Personal Care Use at Home or Salon',
+    price: 69.99,
+    originalPrice: 119.99,
+    rating: 4.5,
+    reviewsCount: 80,
+    category: 'personal-care',
+    image: '/images/hair.jpg',
+    description: '2-in-1 hair and facial steamer for deep conditioning natural hair and daily skincare.',
+    longDescription: 'Hair steamer for natural hair: provide valuable nutrient to unhealthy hair, prevents breakage and split ends, treating brittle&damaged hair; Facial steamer: Opens and unclogs your pores, allows you to remove dirt, oil and grime from your skin; Melts away dead skin cells, replace chemical exfoliating scrubs & peels; Make toner, cream and other nutrients absorbable. Aromatherapy diffusing function is provided.',
+    features: [
+      'The difference between Kingsteam 2 in 1 facial steamer and market is that we takes the advanced PTC ceramic heating element to vaporize clean water and produce a visibly strong steam instantly. Ample and directed micro-fine steams penetrate deeply into all your hair and skin layers. Plus ozone generated Ion water particles can be up to 10x more effective in penetrating hair and skin..',
+      'Auto-off function:Built-in safety protection automatically shuts off the steamer when water runs low and overheating occurs. For safe, switch to “OFF” or unplug the unit after use. Note: Any moisture found inside the product packaging is from factory quality testing and won\'t affect normal use',
+      'Conveniently sized: This is professional-quality machine of hair steamer for black hair also delivers convenient portability, ideally suited for use at the salon, at home, or while traveling.',
+      'Conveniently sized: This is professional-quality machine of hair steamer for black hair also delivers convenient portability, ideally suited for use at the salon, at home, or while traveling..'
+    ],
+    stock: 30,
+    badge: 'Personal Care'
+  },
+  {
+    id: 'Nuanchu Salon Rolling Cart with Storage, Epa Certified Wood, Beauty Spa UseUniversal Wheels, 2-tierd Wood Mobile Spa Trolley, 2 Drawers + 1 Tray, White Beauty Esthetician Cart for Nail Tech, Skincare',
+    name: 'Nuanchu Salon Rolling Cart with Storage, Epa Certified Wood, Beauty Spa UseUniversal Wheels, 2-tierd Wood Mobile Spa Trolley, 2 Drawers + 1 Tray, White Beauty Esthetician Cart for Nail Tech, Skincare',
+    price: 79.99,
+    originalPrice: 129.99,
+    rating: 4.6,
+    reviewsCount: 70,
+    category: 'personal-care',
+    image: '/images/salon.jpg',
+    description: 'Salon rolling cart with storage, universal wheels, and multiple tiers for beauty and spa use.',
+    longDescription: 'EPA Certified Material & Clean White Look: Made with EPA certified low-emission wood materials, this Mobile Beauty Trolley is safe, durable, and suitable for everyday salon or home use. The trolley features a clean all-white finish with a modern minimalist look, making it a practical esthetician cart for storing skincare, makeup, spa tools essentials.',
+    features: [
+      '2-Tier Storage with Tray and Drawers: Designed with overall dimensions of 31.5 in (H) x 15.7 in (W) x 15.7 in (D), this organizer features a spacious top tray, an open middle shelf, and 2 pull-out drawers to keep bottles, towels, tools, and accessories neatly arranged. It works well as a pedicure cart, pedicure table side organizer, or nail cart, helping nail techs keep frequently used items within easy reach during treatments',
+      '4 X 360° Smooth Rotatable Wheels: Equipped with 4 universal wheels, this salon trolley cart with wheels moves smoothly between treatment rooms, spa corners, and home beauty spaces. The 360° rotatable design makes it easy to change direction, while the stable wheel structure helps keep supplies secure during daily salon, spa, or skincare work',
+      'Rounded Design for Safer Daily Use: The rounded side frame and raised tray edges help reduce bumps and prevent items from slipping off during movement. This compact trolley cart can be used as a lash cart, salon cart, or pedicure cart in salons, facial rooms, manicure stations, and skincare setups, offering both safety and convenience in beauty work.',
+      'Versatile for Nail, Spa, and Beauty Use: Suit for beauty salons, spa rooms, nail stations, tattoo studios, and home organization, this pedicure cart for nail tech supports a wide range of beauty routines. Use it for makeup, skincare, waxing, facial tools, or hair accessories. It is also a practical hair tool organizer and spa storage systems solution for compact spaces',
+      
+    ],
+    stock: 15,
+    badge: 'Personal Care'
+  },
+  {
+    id: 'Iswee Genuine Leather Purses for Women Shoulder Handbags Designer Hobo Crossbody Purse Top Handle Purse',
+    name: 'Iswee Genuine Leather Purses for Women Shoulder Handbags Designer Hobo Crossbody Purse Top Handle Purse',
+    price: 69.99,
+    originalPrice: 99.99,
+    rating: 4.7,
+    reviewsCount: 90,
+    category: 'fashion',
+    image: '/images/bag.jpg',
+    description: 'Genuine leather purses for women with shoulder straps and crossbody design.',
+    longDescription: 'EFFICIENTLY ORGANIZED & SLEEK IN DESIGN—This crossbody bag keeps essentials neatly arranged with a zip pocket and an opposing slip pocket for quick phone access. Its minimalist design, smooth hardware, and tailored silhouette offer a clean, modern look that works seamlessly from day to night.',
+    features: [
+      'TWO STRAPS, ENDLESS STYLES — This leather bag includes two adjustable, detachable straps: a boho woven strap (33.66–55.49 in) for casual wear, and a polished leather strap (42.52–51.97 in) for refined looks. Switch easily between shoulder and crossbody carry to match any occasion—from work and travel to weekends and dates. Designed to adapt in an instant.Spacious Interior: The purse features a roomy interior with multiple compartments, allowing you to organize your essentials such as wallet, phone, keys, and makeup.',
+      'BALANCED PROPORTIONED FOR DAILY ESSENTIALS — At 9.84”L x 3.15”W x 6.69”H, weighs 0.772 pounds，this compact shoulder bag fits comfortably close to your body while holding your phone, wallet, keys, and small daily items without bulk. Designed for polished, on-the-go organization.',
+      'A THOUGHTFUL GIFT FOR ANYONE YOU LOVE — Thoughtfully crafted for someone special—or for yourself. Perfect for Christmas, Mother‘s Day, birthdays and beyond, this leather crossbody handbag makes a heartfelt gift for a partner, parent, friend, or you. Designed to carry day to day, it\'s both a celebration and a companion for what matters most.',
+      'HANDCRAFTED UNIQUENESS – Please note that each bag is individually hand-stained, making every piece uniquely yours. Slight color variations may occur due to lighting and natural leather texture. Additionally, as a handmade product, measurements may vary within a normal range of 0.39–1.18 inches. This artisan touch ensures no two bags are exactly alike, adding to its character and charm.'
+    ],
+    stock: 25,
+    badge: 'Fashion'
   }
 ];
