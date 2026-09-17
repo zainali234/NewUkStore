@@ -918,7 +918,7 @@ export const PRODUCTS: Product[] = [
  {
     id: 'Contixo F23 GPS Drone With Camera, 46 Min Flight Time, 4.5" Screen Remote, Follow Me, Waypoints, 5GHz FPV Transmission, Return to Home, Hand Gestures, Orbit Mode Foldable Drones For Teens & Adults',
     name: 'Contixo F23 GPS Drone With Camera, 46 Min Flight Time, 4.5" Screen Remote, Follow Me, Waypoints, 5GHz FPV Transmission, Return to Home, Hand Gestures, Orbit Mode Foldable Drones For Teens & Adults',
-    price: 80.99,
+    price: 99.99,
     originalPrice: 150.99,
     rating: 4.9,
     reviewsCount: 89,
@@ -1144,7 +1144,7 @@ export const PRODUCTS: Product[] = [
   {
     id: 'Ninja Fresh Brew Coffee Maker, 12 Cup Glass Carafe, Stainless Steel, CE251 Programmable, Classic & Rich brew, 70-oz. Removable Water Reservoir, Small Batch, 24-hr Delay Brew, Adjustable Warming Plate',
     name: 'Ninja Fresh Brew Coffee Maker, 12 Cup Glass Carafe, Stainless Steel, CE251 Programmable, Classic & Rich brew, 70-oz. Removable Water Reservoir, Small Batch, 24-hr Delay Brew, Adjustable Warming Plate',
-    price: 89.99,
+    price: 95.99,
     originalPrice: 149.99,
     rating: 4.5,
     reviewsCount: 85,
@@ -1636,5 +1636,232 @@ export const PRODUCTS: Product[] = [
     ],
     stock: 25,
     badge: 'Fashion'
+  },
+  {
+    id: 'Walking Pad Treadmill, BestGod Incline Under Desk Treadmill 330lbs Capacity, 2.5HP Portable Treadmills for Home, Compact Treadmills Mini Running Machine with Remote Control',
+    name: 'Walking Pad Treadmill, BestGod Incline Under Desk Treadmill 330lbs Capacity, 2.5HP Portable Treadmills for Home, Compact Treadmills Mini Running Machine with Remote Control',
+    price: 99.99,
+    originalPrice: 199.99,
+    rating: 4.6,
+    reviewsCount: 100,
+    category: 'fitness',
+    image: '/images/walk.PNG',
+    description: 'Compact treadmill with incline feature and remote control for home use.',
+    longDescription: '【330LBS Heavy-Duty Build】: Made with premium upgraded materials, this under-desk treadmill supports up to 330LBS—perfect for the whole family. Its 32.87 x 15.75-inch walking area offers ample space for comfortable movement, no cramped steps.',
+    features: [
+      '【Shock-Absorbing & Slip-Resistant】: Rubber shock-absorbing feet reduce knee/joint impact for gentle long walks. The 6-in-1 anti-slip running belt is grippy, ultra-durable, and built to withstand daily use without wear.',
+      '【Real-Time Workout Tracking】: Effortlessly track progress! This treadmill displays calories, speed, time, distance, and steps in real time—clear, instant data to help you reach your fitness goals..',
+      '【Remote Control】The included remote control allows you to easily adjust speed and incline settings without having to stop your workout, providing convenience and ease of use.',
+      '【Safety Features】The treadmill includes safety features such as an emergency stop button and a safety key that can be attached to your clothing, ensuring a safe workout experience.'
+    ],
+    stock: 20,
+    badge: 'Fitness'
+  },
+  {
+    id: 'GREENWORKS 24V Combo (1/2” Drill + 1/4” Impact Driver + 6.5” Circular Saw + 200Lm Flashlight), 4.0Ah + 2.0Ah Batteries (24,000mAh PB), (2) Braided Cables, 65W Rapid Charger,High-Efficiency',
+    name: 'GREENWORKS 24V Combo (1/2” Drill + 1/4” Impact Driver + 6.5” Circular Saw + 200Lm Flashlight), 4.0Ah + 2.0Ah Batteries (24,000mAh PB), (2) Braided Cables, 65W Rapid Charger,High-Efficiency',
+    price: 99.99,
+    originalPrice: 199.99,
+    rating: 4.7,
+    reviewsCount: 90,
+    category: 'tools',
+    image: '/images/tools.jpg',
+    description: '24V combo kit with drill, impact driver, circular saw, flashlight, and batteries.',
+    longDescription: '1/2” Drill & 1/4” Impact Driver Combo-Tackle any DIY project or professional job with ease! The 1/2 in. drill driver features 2-speed transmission (0-450 RPM / 0-2000 RPM) and 400 in-lbs torque for precise drilling and screwdriving on wood, metal, and more. The 1/4 in. impact driver delivers 1,950 in-lbs torque and 3,400 RPM for heavy-duty fastening tasks.',
+    features: [
+      'High-Efficiency Circular Saw – 4,800 RPM Brushless Motor:The 6.5”Brushless circular saw operates at 4,800 RPM and includes a 24T carbide-tipped blade, providing fast, clean, and powerful cuts. Bevel capacity up to 50° and max cutting depth of 2-1/4" (0°). Easy blade changes:Spindle lock and on-board wrench storage provides quick and easy circular saw blade changes..',
+      'Flashlight: 1) 3 Light Settings 100 lumens (low), 200 lumens (high), and SOS mode.2) 90° Pivoting Head For adjustable beam direction.3) Premium Ergonomic Grip Provides optimal comfort and control during use.4) Integrated Hanging Hook For easy hands-free mounting.',
+      'Powerful Brushless Motor & Long-Lasting Batteries-Experience 2X more torque and 35% longer runtime compared to 20V competitors. The 24V brushless motor ensures cooler operation, extended tool life, and fade-free power. Includes 2Ah&4Ah batteries for uninterrupted use—perfect for all-day projects.',
+      'Built-In LED Light & Compact Size-Work in tight spaces with ease! The built-in LED light illuminates dark areas, while the 35% more compact design ensures access to hard-to-reach spots. Perfect for home repairs, carpentry, and automotive work.',
+      'Lightweight & Ergonomic Design-Weighing only 4.7 lbs for 1/2” Drill & 1/4” Impact Driver , this combo kit is designed for comfort and control, even during extended use. The non-slip grip and compact design make it ideal for women and professionals alike. Say goodbye to hand fatigue!'
+    ],
+    stock: 30,
+    badge: 'Tools'
+  },
+  {
+    id: 'Electric Bike for Adults, 26\" Fat Tire Ebikes, 48V 15Ah|20Ah60|70+ Miles Electric Bicycle, Removable Battery Electric Mountain Bike, Dual Brake, 7 Speed, Lockable',
+    name: 'Electric Bike for Adults, 26\" Fat Tire Ebikes, 48V 15Ah|20Ah60|70+ Miles Electric Bicycle, Removable Battery Electric Mountain Bike, Dual Brake, 7 Speed, Lockable',
+    price: 149.99,
+    originalPrice: 299.99,
+    rating: 4.8,
+    reviewsCount: 150,
+    category: 'outdoor',
+    image: '/images/bike.jpg',
+    description: '26-inch fat tire electric bike with removable battery and long-range capability.',
+    longDescription: 'POWERFUL PERFORMANCE FOR CITY AND TRAIL RIDES: Experience responsive acceleration and confident riding with a powerful motor. This adult electric bike delivers smooth power for daily commuting, neighborhood rides, gravel paths, hills, and outdoor adventures. Multiple riding modes allow you to choose the right level of assistance for different conditions, making this fat tire electric bike a versatile choice for both beginners and experienced riders.',
+    features: [
+      'LONG RANGE REMOVABLE BATTERY FOR EXTENDED RIDES: Equipped with a 48V 15Ah removable battery, this long range electric bike provides up to 60 miles of pedal-assisted riding depending on rider weight, speed, terrain, and riding conditions. The lockable battery design allows outdoor charging at campsites, RV parks, or other locations with access to power, keeping you ready for your next adventure',
+      'UL 2849 CERTIFIED ELECTRICAL SYSTEM: Ride with confidence with an SGS-tested UL 2849 certified electrical system designed for reliable performance and safer operation. This adult electric bicycle includes a 1-year warranty covering key components including motor, battery, controller, and charger. Arriving 90% pre-assembled with included tools, your e-bike can be ready faster with professional customer support available when needed.',
+      '26 INCH BY 4.0 INCH FAT TIRES AND FRONT SUSPENSION: Built with wide 26 inch x 4.0 inch fat tires, this electric fat tire bike provides enhanced traction, stability, and comfort on pavement, gravel, grass, dirt roads, and light trails. The front suspension fork helps absorb bumps, while dual disc brakes deliver reliable stopping power for a more controlled riding experience',
+      '5 RIDING MODES AND 7-SPEED GEAR SYSTEM: Choose the way you ride with multiple riding options including throttle mode, pedal assist with 5 PAS levels, walk assist, cruise control, and traditional bicycle mode. Combined with a 7-speed gear system, this electric bike gives you better control over speed, effort, and battery usage for commuting, fitness, recreation, and outdoor exploration',
+      'BUILT FOR ADVENTURE AND DAILY USE: Designed for everyday riders, this rugged electric bike features a durable aluminum alloy frame, heavy-duty rear rack, front and rear fenders, bright LED headlight, and an easy-to-read LCD display showing speed, battery level, and mileage. With a 330 lbs load capacity, this adult electric bike is ready for commuting, shopping, camping trips, fishing, and weekend adventures.'
+    ],
+    stock: 20,
+    badge: 'Outdoor'
+  },
+  {
+    id: 'VOLISUN RGB Ceiling Fans with Lights and Remote, 20in Low Profile Ceiling Fans with Lights Flush Mount, 3000K-6500K Dimmable Fandelier LED Fan Light, Black Bladeless Ceiling Fans for Bedroom',
+    name: 'VOLISUN RGB Ceiling Fans with Lights and Remote, 20in Low Profile Ceiling Fans with Lights Flush Mount, 3000K-6500K Dimmable Fandelier LED Fan Light, Black Bladeless Ceiling Fans for Bedroom',
+    price: 89.99,
+    originalPrice: 149.99,
+    rating: 4.5,
+    reviewsCount: 60,
+    category: 'home',
+    image: '/images/fan2.jpg',
+    description: '20-inch low profile ceiling fan with RGB lights and remote control.',
+    longDescription: 'Stunning RGB & Multi-Color Lighting: Choose from dynamic RGB cycling modes or lock in a static shade to match your mood, holidays, party themes, or movie nights. Instantly switch between 3000K-6000K adjustable lighting for reading or relaxing. This dual-light ceiling fan delivers endless ambiance without compromising daily practicality. Elevate any space instantly with this all-in-one RGB ceiling fan with lights. Note: APP offers 16 million rgb colors, and remote control offers 6 rgb colors. Please download and use APP for full experience',
+    features: [
+      'Dimmable & Memory Function: This ceiling fans with lights offer stepless brightness adjustment from 5% to 100%. It delivers stable, flicker-free illumination suitable for bedrooms, living rooms, and kids\' rooms. The memory function enables you to save and recall your preferred light settings, ensuring that the fandelier ceiling fan returns to your desired settings each time it\'s turned on, whether via the remote control or the wall switch. Recommended for rooms sized between 15-25 square meters',
+      '6 Wind Speed & Quiet Fan: This low profile ceiling fan provides six distinct speed options, enabling you to select the airflow intensity for your comfort preferences. Moreover, this modern ceiling fan operates quietly, ensuring a tranquil and serene environment. Whether you prefer a gentle breeze or a more robust airflow, this flush mount ceiling fan offers versatile speed settings while minimizing noise disturbance',
+      'Simple Installation: Our color changing ceiling fan features simplified installation with the majority of components pre-assembled, reducing the need for complex assembly. You can easily connect the wires and mount the ceiling fan with light to the ceiling. Additionally, a comprehensive user manual is included in the package, offering answers to all your inquiries.',
+      '3-Year Service Coverage: We wholeheartedly stand by our products, offering a comprehensive 3-year service for our rgb ceiling fan. This ensures coverage in the event of LED fan light malfunctions or any defects within 3 years'
+    ],
+    stock: 25,
+    badge: 'Home'
+  },
+  {
+    id: 'PRO Electric Heated Gua Sha Kit, Red Light Face Massager Tool, RedBrass Beauty Device with Vibration for Face & Neck Sculpting & Firming, 12 LED Red Light, 30ml Jasmine Oil, Gift for Women',
+    name: 'PRO Electric Heated Gua Sha Kit, Red Light Face Massager Tool, RedBrass Beauty Device with Vibration for Face & Neck Sculpting & Firming, 12 LED Red Light, 30ml Jasmine Oil, Gift for Women',
+    price: 79.99,
+    originalPrice: 129.99,
+    rating: 4.6,
+    reviewsCount: 70,
+    category: 'personal-care',
+    image: '/images/face.jpg',
+    description: 'Electric heated Gua Sha kit with red light therapy for face and neck sculpting and firming.',
+    longDescription: '【2026 Upgraded 12-Bead Red Light Therapy System】 Fully upgraded with 12 evenly spaced red light beads (620–640nm) — a 50% increase in illumination points vs. standard models — delivering broader, more consistent, and gentle radiant energy across the entire face and neck. Perfect for enhancing facial care routines, jawline contouring, lymphatic drainage, and neck relaxation, this advanced red light system takes your at-home spa experience to the next level.',
+    features: [
+      '【Smart Heat & Gentle Vibration Massage】Three adjustable heat levels (95°F–122°F / 35–50°C) combined with 3 levels of gentle vibration provide a customizable facial massage. Unlike strong body massagers, the vibration is designed to be soft and soothing for delicate facial skin, helping relax facial tension while supporting a smoother-looking complexion. For first-time use, it is recommended to start from the lowest heat and vibration settings and adjust gradually based on personal comfort. For best results, use slow upward lifting motions along the face and neck.',
+      '【Relaxing Home SPA Experience】Use with your favorite serums, facial oils, or creams. Gentle heat and vibration help improve product absorption, allowing skincare ingredients to work more effectively. Regular use helps your skin feel firmer, softer, and visibly more radiant after each session',
+      '【Ergonomic Contoured Design】Thoughtfully shaped with curved edges that fit the natural contours of your face, neck, and shoulders for smoother gliding and better contact. The ergonomic handle ensures a comfortable, balanced grip, making it easy to enjoy a relaxing massage anytime',
+      '【Long-Lasting & Travel-Friendly】Compact and lightweight (174g) for effortless daily use at home or on the go. Powered by an 800mAh rechargeable battery with a Type-C charging port, supporting fast and convenient charging. A full charge takes about 1.5 hours and provides up to 1.5 hours of continuous use, which can support multiple skincare sessions. Actual battery life may vary depending on heat and vibration settings. A thoughtful beauty and wellness gift designed for relaxation and self-care anytime, anywhere'
+    ],
+    stock: 30,
+    badge: 'Personal Care'
+  },
+  {
+    id: 'Professional Cordless Barber Massager, GoldAdjustable Straps, 5 Modes, Handheld Vibrating Scalp',
+    name: 'Professional Cordless Barber Massager, GoldAdjustable Straps, 5 Modes, Handheld Vibrating Scalp',
+    price: 79.99,
+    originalPrice: 129.99,
+    rating: 4.5,
+    reviewsCount: 60,
+    category: 'personal-care',
+    image: '/images/barber.jpg',
+    description: 'Cordless barber massager with adjustable straps and 5 vibration modes for scalp massage.',
+    longDescription: '✅【Upgraded Comfort & Anti-Pinch Design】 Say goodbye to old-fashioned barber massagers with metal spring straps that prick the skin or painfully pinch hand hair. Our massager features upgraded soft-touch nylon straps with Magic-Velcro, providing a skin-friendly, breathable, and snag-free professional experience.',
+    features: [
+      '✅【Fully Adjustable for All Hand Sizes】 Designed with a thoughtful ergonomic focus, the flexible Velcro straps allow you to customize the tightness to your exact hand size. This ensures a secure, non-slip grip and superior control, reducing hand fatigue during long barbering or massage sessions.',
+      '✅【High-Capacity Battery for Long Use】 Equipped with a robust 2600mAh battery, this device provides 10–13 hours of independent, cordless performance on a single 3–4 hour charge. It is built to keep up with a full day\'s work in a busy professional environment without frequent recharging.',
+      '✅【Cordless Freedom & Universal Type-C Charging】 Experience true cordless freedom without the hassle of tangled wires. This upgraded model utilizes a Type-C (USB-C) charging port, making it compatible with modern power banks, laptops, or wall chargers—ideal for busy barbershops or international travel.',
+      '✅【5 Modes & 5 Variable Speeds】 Tailor your massage experience with 5 adjustable vibration intensities and 5 rhythmic modes. Whether you need a gentle temple massage or deep muscle release for the neck, legs, or hands, this high-frequency device meets a variety of professional and home needs with precision.'
+    ],
+    stock: 20,
+    badge: 'Personal Care'
+  },
+  {
+    id: 'Lifepro Waver Vibration Plate Exercise Machine with 99 Speeds & 10 PresetsResistance Bands, Non-Slip Surface, 330 lbs Capacity — Vibration Plate for Lymphatic Drainage, Body Toning, Full-Body Workout',
+    name: 'Lifepro Waver Vibration Plate Exercise Machine with 99 Speeds & 10 PresetsResistance Bands, Non-Slip Surface, 330 lbs Capacity — Vibration Plate for Lymphatic Drainage, Body Toning, Full-Body Workout',
+    price: 99.99,
+    originalPrice: 299.99,
+    rating: 4.7,
+    reviewsCount: 80,
+    category: 'fitness',
+    image: '/images/yoga.jpg',
+    description: 'Vibration plate exercise machine with 99 speeds, resistance bands, and non-slip surface.',
+    longDescription: 'LOW-IMPACT FULL-BODY WORKOUT FOR ALL FITNESS LEVELS: The Lifepro Waver vibration plate for whole-body wellness supports up to 330 lbs and features 10 preset programs plus manual mode — giving beginners a guided starting point and advanced users full control; ideal for activating muscles, enhancing circulation, and supporting daily recovery.',
+    features: [
+      'BUILD YOUR DREAM BODY: Transform your physique with our vibrating exercise equipment The Waver whole body shake plate delivers full-body vibrations to enhance muscle contraction and activation. Enjoy stronger muscles, improved balance, and increased flexibility conveniently at home.',
+      'HOME WORKOUT EQUIPMENT FOR OSCILLATION MOVEMENT: Through oscillation movement, the Lifepro Waver Vibration Plate Exercise Machine supports muscles, energy balance, circulation, joint comfort and mobility. Get started with everything you need, including 2 loop bands, 4 resistance bands, remote control, and user guide. Easily stows away under your bed or furniture.',
+      'RECOVERY AND FULL-BODY WELLNESS: Our vibration platform gives your body’s natural healing abilities a gentle nudge in the right direction, giving your muscles and joints the support they need to feel refreshed faster. Support your recovery and help maintain an active, strong body with our whole body workout machine.',
+      'POWERFUL AND CUSTOMIZABLE: Easily switch between 99 speed settings to maximize your workouts. The vibration board exercise machine features anti-slip rubber, a user-friendly display, and whisper-quiet vibrations for maximum convenience..'
+    ],
+    stock: 15,
+    badge: 'Fitness'
+  },
+  {
+    id: 'Steamery Handheld Clothes Steamer Cirrus 3, 1200W, US Plug, Heated Ironing Plate, Fast Heat Up, Garment Wrinkle Remover, Pink',
+    name: 'Steamery Handheld Clothes Steamer Cirrus 3, 1200W, US Plug, Heated Ironing Plate, Fast Heat Up, Garment Wrinkle Remover, Pink',
+    price: 89.99,
+    originalPrice: 129.99,
+    rating: 4.6,
+    reviewsCount: 70,
+    category: 'home',
+    image: '/images/heated.jpg',
+    description: 'Handheld clothes steamer with 1200W power, heated ironing plate, and fast heat-up.',
+    longDescription: 'FAST HEAT-UP & POWERFUL STEAM OUTPUT: The Steamery Cirrus 3 handheld clothes steamer heats up in just 45 seconds and delivers a powerful steam output of 30g/min, making it perfect for quickly removing wrinkles from garments, curtains, and upholstery.',
+    features: [
+      'Minimalist in design, powerful in performance. Combining the benefits of a steamer and iron, our Cirrus 3 Iron Steamer smooths out wrinkles instantly with dry hot steam.',
+      'Features a flat base for standing storage and auto shut-off after 30 minutes. Combines style and safety in one sleek tool for effortless garment care.',
+      'Suitable for all materials from delicate silk and cashmere to structured cotton and linen. Use it to steam garments, curtains, or home furniture for a fresher, polished look.',
+      'Heats up in 25 seconds, for smooth, efficient everyday steaming. The 90 ml water tank is carefully sized to deliver continuous steam for a complete outfit, ideal for refreshing select garments with precision and ease.'
+    ],
+    stock: 25,
+    badge: 'Home'    
+  },
+  {
+    id: '3-Phase Energy Meter 1200A/600V 2.4GHz WiFi/EthernetReal-Time kWh/W/A/V/PF/$ Data, Solar & Net Metering, 3x1200A CTs, Model EB6-EW-E3-1200A - Made in North America',
+    name: '3-Phase Energy Meter 1200A/600V 2.4GHz WiFi/EthernetReal-Time kWh/W/A/V/PF/$ Data, Solar & Net Metering, 3x1200A CTs, Model EB6-EW-E3-1200A - Made in North America',
+    price: 119.99,
+    originalPrice: 299.99,
+    rating: 4.8,
+    reviewsCount: 50,
+    category: 'tools',
+    image: '/images/energy.jpg',
+    description: '3-phase energy meter with WiFi/Ethernet connectivity for real-time data monitoring.',
+    longDescription: 'The EB6-EW-E3-1200A is a high-precision 3-phase energy meter designed for residential, commercial, and industrial applications. It provides real-time monitoring of kWh, W, A, V, PF, and cost data through WiFi or Ethernet connectivity. Ideal for solar and net metering setups, this meter comes with three 1200A current transformers (CTs) for accurate measurement.',
+    features: [
+      'Connection Options- by WiFi (2.4 GHz) or wired Ethernet. NEED HELP? Reach out to Eyedro\'s Technical Support Team for assistance with the setup of your Eyedro device.',
+      '3-Phase Power Meter With Real-Time Data: see energy usage and solar generation vs. consumption with instant readings in kWh, Watts, Amps, Volts, Power Factor and cost ($).',
+      'Directional Solar & Net Metering Ready: differentiates power consumed vs. generated, perfect for solar, grid-tie and net metering scenarios. To break out grid consumption from solar generation and use the MyEyedro Net Meter plugin 2 x Eyedro monitors are required.',
+      'Electric Meter Featuring Non-invasive Installation: uses split-core current sensors. Includes 3 x 1200A steel CTs with no wiring changes, no special tools.',
+      'No Subscription Cloud Software: full 24/7 data, plugins, alerts, reports, and bill projections included via the MyEyedro platform at no fee.',
+      'How it Works: Connect via 2.4 GHz WiFi or Ethernet cable, Clamp split-core CT sensors on the 3 hot conductors in the panel, Create a free MyEyedro account, Claim your hardware using the serial number found on the module\'s label, Configure voltage, amperage and rates in the MyEyedro cloud software.'
+    ],
+      stock: 25,
+      badge: 'Home'  
+  },
+  {
+    id: 'AAOBOSI Electric Meat Grinder w/ 3 Speed Touch Screen Control, 3000W MaxBuilt-in Storage, 4lbs/min, 3-in-1 for Sausage, Burger & Raw Pet Food for Home Kitchen, LFGB Approved, Easy Cleanup',
+    name: 'AAOBOSI Electric Meat Grinder w/ 3 Speed Touch Screen Control, 3000W MaxBuilt-in Storage, 4lbs/min, 3-in-1 for Sausage, Burger & Raw Pet Food for Home Kitchen, LFGB Approved, Easy Cleanup',
+    price: 89.99,
+    originalPrice: 199.99,
+    rating: 4.7,
+    reviewsCount: 60,
+    category: 'home',
+    image: '/images/meat.jpg',
+    description: 'Electric meat grinder with touch screen control, 3000W power, and built-in storage.',
+    longDescription: 'The AAOBOSI Electric Meat Grinder is a versatile kitchen appliance designed for home use. With a powerful 3000W motor and three speed settings, it can grind meat, make sausages, and prepare raw pet food efficiently. The touch screen control allows for easy operation, while the built-in storage keeps accessories organized.',
+    features: [
+      'SMART GRINDING WITH LESS CLOGGING: Auto-Reverse function clears trapped meat instantly. Touch color screen and 3 speed settings give simple control for grinding meat, sausage making and more. No more hand cranking or jamming issues.',
+      'FRESH GROUND MEAT FOR HOMEMADE MEALS: 3000W Max electric meat grinder grinds up to 4 lbs/min. Make fresh burgers, meatballs and meal prep faster with ingredients you control. Skip store-bought ground beef for healthier family cooking..',
+      'MEAL PREP, RAW PET FOOD & GAME PROCESSING: Grind fresh chicken, beef or pork for dogs and cats. Control every ingredient in homemade pet food. Handles large batches for weekly meal prep and deer processing after hunting trips.',
+      '3-IN-1 MEAT GRINDER FOR BURGERS, SAUSAGES & KIBBE: 3 grinding plates (3mm/5mm/7mm) adjust texture for any recipe. Includes sausage stuffer and kibbe attachments for versatile cooking. Perfect meat grinder for home use and small kitchen.',
+      'EASY CLEANING & SAFE MATERIALS: LFGB & RoHS certified food-grade stainless steel blades and plates are dishwasher-safe. Built-in storage keeps all accessories neatly in one place. Easy cleanup electric meat grinder for daily kitchen use.',
+      'Easy Cleanup: Detachable parts and a smooth surface make cleaning the grinder quick and hassle-free.'
+    ],
+    stock: 15,
+    badge: 'Home'
+  },
+  {
+    id: 'Belkin Qi2.2 25W Wireless Fast Charging Station, 3 in 1 iPhone ChargerFast Charging, MagSafe Compatible, iPhone 17/16/15, Apple Watch, AirPods, Travel Charger, Magnetic',
+    name: 'Belkin Qi2.2 25W Wireless Fast Charging Station, 3 in 1 iPhone ChargerFast Charging, MagSafe Compatible, iPhone 17/16/15, Apple Watch, AirPods, Travel Charger, Magnetic',
+    price: 89.99,
+    originalPrice: 149.99,
+    rating: 4.6,
+    reviewsCount: 70,
+    category: 'electronics',
+    image: '/images/wireless.jpg',
+    description: '25W wireless fast charging station compatible with iPhone, Apple Watch, and AirPods.',
+    longDescription: 'FAST CHARGE W/ THE LATEST Qi2 TECHNOLOGY: Conveniently fast charge your iPhone or Qi2 devices up to 25W on the magnetic charger. Fast charging is supported only on iOS 26 and newer, not iOS 18. MagSafe compatible for up to 5x faster wireless charging.',
+    features: [
+      'ULTRA-FAST CHARGING FOR ALL YOUR DEVICES: With wireless charging now as fast as wired, you can charge iPhone from 0-50% in 25 minutes** and Apple Watch Series 10 from 0-80% in 45 minutes.*** Also, charge AirPods up to 5W while charging your other devices.',
+      'SIMULTANEOUS CHARGING, EASY ALIGNMENT: Wirelessly charge your iPhone, Apple Watch, and AirPods at the same time to quickly and conveniently prepare for your next adventure. Magnetic alignment easily snaps your phone in place for perfect charging..',
+      'CHILLBOOST ACTIVE COOLING FOR OPTIMIZED SPEED: Built-in ChillBoost keeps the dock up to 10°F cooler during high-speed charging. A quiet smart fan with on/off switch auto-adjusts by temperature and runs only with a device attached (light hum is normal).',
+      'PREMIUM MATERIALS AND ELEVATED DESIGN: Crafted with a weighted chrome base for stability and soft-touch silicone that complements any home or office space. Designed to blend seamlessly with modern interiors.',
+      'STANDBY READY: 3-in-1 magnetic charger supports StandBy to style your iPhone as you\'d like, allowing Apple users to mount their phone and enjoy StandBy features while working or relaxing. View the time in the office, bedroom, and more.'
+    ],
+    stock: 20,
+    badge: 'Electronics'
   }
-];
+]
