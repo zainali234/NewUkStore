@@ -33,7 +33,7 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
   const [copiedField, setCopiedField] = useState<string | null>(null);
 
   const subtotal = cartItems.reduce((acc, item) => acc + item.product.price * item.quantity, 0);
-  const tax = subtotal * 0.08;
+  const tax = subtotal * 0;
   const total = subtotal + tax;
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
