@@ -303,7 +303,7 @@ export default function Checkout({ cartItems, onBackToCart, onOrderSuccess }: Ch
               <span className="font-mono text-slate-700">£{subtotal.toFixed(2)}</span>
             </div>
             <div className="flex justify-between text-slate-500">
-              <span>Estimated Sales Tax (8%)</span>
+              <span>Estimated Sales Tax (0%)</span>
               <span className="font-mono text-slate-700">£{tax.toFixed(2)}</span>
             </div>
             <div className="flex justify-between text-slate-500">
