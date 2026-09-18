@@ -19,7 +19,7 @@ export default function Cart({
 }: CartProps) {
   const subtotal = cartItems.reduce((acc, item) => acc + item.product.price * item.quantity, 0);
   const deliveryFee = 0; // Free Prime delivery
-  const estimatedTax = subtotal * 0.08; // 8% estimated sales tax
+  const estimatedTax = subtotal * 0; // 8% estimated sales tax
   const total = subtotal + deliveryFee + estimatedTax;
 
   if (cartItems.length === 0) {
@@ -158,7 +158,7 @@ export default function Cart({
               <span className="font-mono text-slate-800 font-semibold">£{subtotal.toFixed(2)}</span>
             </div>
             <div className="flex justify-between text-slate-500">
-              <span>Estimated Sales Tax (8%)</span>
+              <span>Estimated Sales Tax (0%)</span>
               <span className="font-mono text-slate-800 font-semibold">£{estimatedTax.toFixed(2)}</span>
             </div>
             <div className="flex justify-between text-slate-500">
