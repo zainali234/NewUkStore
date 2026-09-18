@@ -1863,5 +1863,88 @@ export const PRODUCTS: Product[] = [
     ],
     stock: 20,
     badge: 'Electronics'
+  },
+  {
+    id: 'Tribest Pro MJP-100 Professional Manual Cold Press Juicer Machine for Citrus, Black',
+    name: 'Tribest Pro MJP-100 Professional Manual Cold Press Juicer Machine for Citrus, Black',
+    price: 79.99,
+    originalPrice: 139.99,
+    rating: 4.7,
+    reviewsCount: 80,
+    category: 'home',
+    image: '/images/press.jpg',
+    description: 'Professional manual cold press juicer machine for citrus fruits.',
+    longDescription: 'Stainless Steel Citrus Juicer Machine: This hand juicer comes equipped with a durable stainless steel strainer and bowl that ensure that your fruit juice never comes into contact with aluminum or plastic',
+    features: [
+      'Maximum Juice Output: Complete with an ergonomic handle, this manual fruit juicer machine produces 200 lbs of squeezing pressure via heavy-duty internal gears designed to reduce waste, save time, and increase the output of your juice maker',
+      'Frustration-Free Juicing: Our slow juicer boasts fully locking parts - the juicing strainer and bowl lock into place for added ease of use; Simply unlock with a twist to quickly clean and sanitize',
+      'Built To Last: All the load-bearing parts of our manual juicer hand press are constructed from solid stainless steel bars for an enhanced lifespan; The weight of our juice maker machine enhances its stability during use',
+      'Easy-To-Use Swing Drip Cup: Our juice extractor machine comes with a built-in drip cup designed to prevent spills and wasted juice between presses; Simply lift, remove, and pour out to clean the cup',
+    ],
+    stock: 15,
+    badge: 'Home'
+  },
+  {
+    id: 'Ronco 6000 Platinum Digital Countertop Rotisserie Oven, 12-lb Capacity',
+    name: 'Ronco 6000 Platinum Digital Countertop Rotisserie Oven, 12-lb Capacity',
+    price: .99,
+    originalPrice: 299.99,
+    rating: 4.5,
+    reviewsCount: 120,
+    category: 'home',
+    image: '/images/chicken.jpg',
+    description: 'Digital countertop rotisserie oven with 12-lb capacity.',
+    longDescription: 'LARGE CAPACITY OVEN – Large enough to cook a 12-pound turkey or 2 whole chickens, the Ronco Rotisserie has a large interior while maintaining a small countertop footprint allowing you to easily store under your cabinets. The classic Ronco rotisserie oven design features a self-basting rotation that locks in the natural juices and flavor for a tender, mouthwatering meal. Dimensions: 17.75” W x 13.75” H x 15.25” D',
+    features: [
+      '3 DIGITAL SETTINGS – The digital display features 3 cooking functions: Roast – a premium rotisserie setting, Sear – pauses rotation for the perfect sear, and No Heat Rotation – keeps your meal warm and juicy for up to 20 minutes. Ronco’s 6000 Series Platinum Showtime Rotisserie has the perfect preset temperature and rotation speed. Adjust your cook time up to 4 hours, and when complete the oven will automatically shut off to prevent over-cooking.',
+      'MORE THAN JUST CHICKEN – With the included multi-purpose basket the possibilities are endless with your rotisserie oven. Roast fish and vegetables, cook hamburgers and sausages, prepare all your favorites in one easy-to-use oven. And the unique door design slides underneath the oven so it’s easy to add and remove all types of food. No more awkwardly reaching over the door – intuitive and easy design from Ronco’s Rotisserie Oven allows you to make all your favorite meals with ease.',
+      'EASY TO CLEAN – In addition to easy gourmet meals, the Ronco Showtime Rotisserie is easy to clean! The oven’s interior surface wipes clean with a damp cloth while the removable glass door, drip tray, rotisserie spit, and basket are all dishwasher safe.',
+      'INCLUDED ACCESSORIES – 6000 Platinum Series Ronco Showtime Rotisserie Oven, Removable Glass Door, Non-Stick Grate Cover, Non-Stick Drip Tray, Non-Stick Spit Rod Assembly, Non-Stick Rotisserie Basket, Oven Gloves, Carving Platform, Food Ties, Heat Shield, Detailed Instructions with Time and Temperature Chart and 10 Recipes',
+      'Auto Shutoff: Features an auto shutoff function for added safety.'
+    ],
+    stock: 10,
+    badge: 'Home'
+  },
+  {
+    id: 'Roti Maker Machine 10 Inch Non Stick Electric Tortilla Maker Electric Tortilla Press Stainless Steel Aluminum Alloy Roti Maker Machine Pancake Machine With Knob Temperature Control',
+    name: 'Roti Maker Machine 10 Inch Non Stick Electric Tortilla Maker Electric Tortilla Press Stainless Steel Aluminum Alloy Roti Maker Machine Pancake Machine With Knob Temperature Control',
+    price: 79.99,
+    originalPrice: 149.99,
+    rating: 4.6,
+    reviewsCount: 50,
+    category: 'home',
+    image: '/images/roti.jpg',
+    description: '10-inch non-stick electric roti maker machine with temperature control knob.',
+    longDescription: '[Large 10inch Cooking Surface] The 25.5cm (10 inch) electric tortilla maker provides ample space to prepare larger pancakes, rotis, and crepes with even heating. its generous size accommodates family-sized portions, making it for busy kitchens. the precision-engineered heating plate ensures uniform cooking every time, eliminating or burnt spots.',
+    features: [
+      '[Advanced Nonstick Technology] The superior nonstick coating prevents food from sticking without the need for excess oil, promoting healthier cooking. cleanup is remarkably easy – just wipe the surface after use. the pfoa- coating is food-safe and scratch-, offering long-lasting performance.',
+      '[User-friendly Design for All Skill Levels] Designed for both home cooks and professionals, this tortilla machine features simple operation. the stable base prevents slipping, and the cool-touch handles ensure safety. its versatile functionality makes it ideal for making tortillas, rotis, crepes, pizzas, and more with consistent results every time.',
+      '[Precision Temperature Control] Equipped with an intuitive knob temperature control, this roti maker allows you to fine-tune heat levels for results. whether you need high heat for crispy tortillas or low heat for delicate crepes, the adjustable thermostat delivers consistent performance. achieve professional-quality cooking with effortless control.',
+      '[Premium Stainless Steel Construction] Featuring a durable stainless steel cover, this machine withstands high temperatures while maintaining and safety. the - material ensures longevity, and the design adds a professional touch to any kitchen. the cover retains heat efficiently for faster cooking times.',
+    ],
+    stock: 15,
+    badge: 'Home'
+  },
+  {
+    id: 'NeverClog Cold Press Juicer, 24oz Jug, 36oz Pulp, Navy, JC151NV',
+    name: 'NeverClog Cold Press Juicer',
+    price: 89.99,
+    originalPrice: 199.99,
+    rating: 4.8,
+    reviewsCount: 120,
+    category: 'home',
+    image: '/images/press1.jpg',
+    description: '150W high-torque auger juices fibrous fruits & veggies. Total Pulp Control, 2 one-touch programs. Dishwasher safe.',
+    longDescription: 'The NeverClog Cold Press Juicer is designed to handle fibrous fruits and vegetables with ease. Its high-torque auger ensures maximum juice extraction while minimizing clogging. With Total Pulp Control and two one-touch programs, you can customize your juicing experience. The juicer is also dishwasher safe for easy cleanup.',
+    features: [
+      'NON-STOP JUICING: This powerful masticating juicer’s high-torque motor powers through tough fruits and vegetables like apples, carrots, celery, and leafy greens for smooth, nutrient-rich cold press juice without clogging.',
+
+      'CUSTOMIZE & CONTROL PULP: Includes 2 interchangeable pulp filters so you can choose Less Pulp or Lots of Pulp, giving you full control over texture when making fresh fruit juice, vegetable juice, or green juice.​',
+      'SIMPLE ONE-TOUCH PROGRAMS: Easy operation with 2 convenient programs: Start/Stop and Reverse. Reverse function helps reduce jams and maximize juice extraction for a smoother juicing experience.​',
+      'POWER: 150-watt high-torque motor rotates the auger at low speeds for efficient cold press juicing, delivering high-yield fresh juice from every ingredient while minimizing clogging and foam.​',
+      'EASY SETUP & COMPACT DESIGN : Space-saving juicer fits easily under kitchen cabinets and is easy to assemble, making it ideal for small kitchens, apartments, or everyday countertop use.​'
+    ],
+    stock: 20,
+    badge: 'Home'
   }
 ]
