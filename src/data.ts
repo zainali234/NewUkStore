@@ -1946,5 +1946,26 @@ export const PRODUCTS: Product[] = [
     ],
     stock: 20,
     badge: 'Home'
+  },
+  {
+    id: 'Lunix LX5 4pc Orthopedic Bed Wedge Pillow Set, Abdominal Surgery RecoverySleep Semi-Upright Without Buying a Recliner: Torso, Back, Knee and Leg Wedges for the Bed You Own',
+    name: 'Lunix LX5 4pc Orthopedic Bed Wedge Pillow Set, Abdominal Surgery RecoverySleep Semi-Upright Without Buying a Recliner: Torso, Back, Knee and Leg Wedges for the Bed You Own',
+    price: 79.99,
+    originalPrice: 149.99,
+    rating: 4.7,
+    reviewsCount: 80,
+    category: 'home',
+    image: '/images/bed.jpg',
+    description: '4-piece orthopedic bed wedge pillow set for abdominal surgery recovery and semi-upright sleep.',
+    longDescription: 'Four-Piece Set Built Around the Knees: Torso, back, knee and leg wedges arrange your own bed into a semi-upright position with the knees raised, the position commonly used for rest after a tummy tuck, C-section, hernia repair or hysterectomy.',
+    features: [
+      'The Recliner Position Without the Recliner: Build the incline and the leg elevation in the bed you already own, then take the set apart and rebuild it as your rest changes week to week, instead of moving to a separate recliner or adjustable base.',
+      'How the Four Pieces Stay Put: A non-slip backing grips the sheet and the pieces fasten to each other with integrated hook-and-loop connectors. On a modular set some movement is possible, so the design goal is a steadier setup, not a locked-in-place claim.',
+      'Two Vacuum Storage Bags and a Hot or Cold Gel Pack in the Box: The bags are how the set packs back down once the weeks of propped-up sleeping are over. The foam arrives compressed and takes 48 to 72 hours in a warm room to reach its full shape.',
+      'OEKO-TEX Certified Cover, Removable and Machine Washable: Unzips for washing; wipe the foam clean and air dry. Backed by a 1-year manufacturing warranty, lifetime with registration.',
+      'VERSATILE AND ADJUSTABLE: The set can be arranged in various configurations to suit individual needs and preferences, providing customizable support for different body types and recovery requirements.'
+    ],
+    stock: 30,
+    badge: 'Home'
   }
 ]
